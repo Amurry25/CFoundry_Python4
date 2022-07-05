@@ -8,6 +8,14 @@
 ### Additional context
 > In addition this achievement also provided a series of questions said to have been asked by Instacart's key stakeholders that I was required to produce "data-driven" answers for based on the data sets again provided in said achievement.
 
+#### Data Sets Provided
+- Customers Data Set
+- Data Dictionary --> The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions
+  - orders
+  - products
+  - aisles
+  - deptartments
+  - order_products__SET
 
 #### Key Questions asked by Instacart
 - The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
@@ -23,12 +31,3 @@ often do they return to Instacart)?
   - Is there a connection between age and family status in terms of ordering habits?
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
-
-#### Data Sets Provided
-- Customers Data Set
-- Data Dictionary --> The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions
-  - orders
-  - products
-  - aisles
-  - deptartments
-  - order_products__SET
