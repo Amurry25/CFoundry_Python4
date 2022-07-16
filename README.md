@@ -32,3 +32,4 @@ often do they return to Instacart)?
   - Is there a connection between age and family status in terms of ordering habits?
   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+
